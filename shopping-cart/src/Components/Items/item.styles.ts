@@ -13,6 +13,7 @@ button {
     border-radius: 0 0 20px 20px;
     font-family: impact;
     color: black;
+    border-top: 2px solid black;
 }
 
 img {
